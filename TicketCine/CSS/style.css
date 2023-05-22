@@ -1,0 +1,47 @@
+body {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(42, 131, 131);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.arriba {
+    background-color: blanchedalmond;
+}
+
+h3 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tabla-contedor {
+    margin: 0 auto;
+    background-color: bisque;
+}
+
+table {
+    width: 60%;
+    margin: 0  auto;
+}
+
+th,
+td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+.column1 {
+    width: 20%;
+    text-align: right;
+}
+
+.column2 {
+    font-size: 10px;
+    width: 40%;
+    text-align: left;
+}
